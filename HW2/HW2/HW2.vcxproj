@@ -158,6 +158,7 @@
     <ClCompile Include="Cell.cpp" />
     <ClCompile Include="Empty.cpp" />
     <ClCompile Include="HW2.cpp" />
+    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
